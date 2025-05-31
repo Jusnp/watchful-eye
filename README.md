@@ -11,6 +11,7 @@ Este repositorio contiene los entregables del proyecto para la materia de Ingeni
   - `Gestion de la configuracion.md`: Listado de gestion de la configuracion.
   - `Documentacion del MER.md`: Documentacion del Mer.
   - `Métricas del Software.md`: Listado de metricas del software.
+  - `Criterios de aceptacion.md`: Listado de Criterios de aceptacion.
 - **diagramas/**: Incluye el diagrama del modelo ER.
   - `modelo-er.png`: Imagen del diagrama ER.
 - `documentación-modelo-er.md`: Documentación modelo.
