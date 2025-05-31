@@ -9,5 +9,5 @@ Este repositorio contiene los entregables del proyecto para la materia de Ingeni
   - `modelo-er.md`: Explicación del modelo Entidad-Relación.
 - **diagramas/**: Incluye el diagrama del modelo ER.
   - `modelo-er.png`: Imagen del diagrama ER.
-- `documentación-modelo-er.md`: Documentación modelo
--**Codigo-proyecto/**: Encuentras el codigo del proyecto en trabajo 
+- `documentación-modelo-er.md`: Documentación modelo.
+-**Codigo-proyecto/**: Encuentras el codigo del proyecto en trabajo. 
